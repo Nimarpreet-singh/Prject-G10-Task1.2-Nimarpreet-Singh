@@ -4,4 +4,5 @@
 3 added
 5 added
 file 6 added offline
-
+file 6 added on cloud
+conflict resolved
